@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>📝 Inglés Particular</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/marked@2.0.3"></script>
+
+    <script src="//unpkg.com/alpinejs" defer></script>
+
+    <style>
+
+        [x-cloak]{
+            display: none;
+        }
+
+    </style>
+
+</head>
+<body x-data="app" @resize.window="isMobile = window.innerWidth <= 768;">
+
+    <div class="columns m-0 p-0">
+
+        <div class="column is-3 has-background-grey-lighter" x-bind:style="{ 'min-height': isMobile ? 'auto' : '100vh' }"> 
+
+            <span class="icon button has-background-grey-lighter" x-show="isMobile" @click="showMenuMobile = !showMenuMobile" x-cloak x-transition>
+                <i class="fas fa-bars fa-lg"></i>
+            </span>
+
+            <div class="menu" x-bind:class="isMobile ? 'my-1' : 'my-5'" x-show="!isMobile || (isMobile && showMenuMobile)" x-cloak x-transition>
+                <ul>
+                    <template x-for="item in menu">
+                        <li>
+                            <p class="menu-label mt-3 mb-1" x-text="item.tag"></p>
+                            <ul class="menu-list">
+                                <template x-for="topic in item.topics">
+                                    <li>
+                                        <a :class="{'is-active' : activeUrl === topic.url}" @click="loadContent(topic.url)">
+                                            <span x-text="topic.name"></span>
+                                            <span class="tag is-dark is-capitalized" x-text="`Unit ${topic.unit}`" x-show="topic.unit && showTags" x-cloak x-transition></span>
+                                            <span class="tag is-capitalized" 
+                                                :class="{'is-success' : topic.state === 'ok', 'is-danger' : topic.state !== 'ok'}" 
+                                                x-text="topic.state"
+                                                x-show="topic.state && showTags" x-cloak x-transition>
+                                            </span>
+                                        </a>
+                                    </li>
+                                </template>
+                            </ul>
+                        </li>
+                    </template>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="column is-9">
+
+            <div class="content p-5">
+
+                <div class="content" x-html="marked(markdownText)" x-show="markdownText != ''" x-cloak x-transition></div>
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+    
+    
+</body>
+
+<script>
+
+    const app = {
+
+        menu : [],
+
+        activeUrl : '',
+
+        showTags : false,
+
+        markdownText : '',
+
+        'isMobile' : window.innerWidth <= 768, // Para activar el menu de celulares
+        'showMenuMobile' : false,
+        
+        async init(){
+
+            const config = await fetch('./apuntes/config.json').then(response => response.json());
+
+            this.menu = config.menu;
+
+            this.loadContent('others/bienvenida.md');
+
+            // Me fijo si tengo que mostrar o no los tags informativos
+
+            const urlParams = new URLSearchParams(window.location.search);
+
+            this.showTags = urlParams.has('showTags') && urlParams.get('showTags') === 'true';
+
+
+        },
+        async loadContent(url){
+            
+            const markdown = await fetch(`./apuntes/${url}`).then(response => response.text());
+            
+            this.markdownText = markdown;
+
+            this.activeUrl = url;
+
+            window.scrollTo({ top: 0,behavior: "smooth" }); // Voy al top de c/u de los apuntes
+
+            if(this.isMobile) this.showMenuMobile = false; // Si estoy en mobile : Una vez que seleccione un apunte, vuelvo a ocultar el menu
+
+        }
+
+    }
+
+
+</script>
+</html>

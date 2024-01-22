@@ -1,0 +1,36 @@
+{
+    "menu" : [
+        {
+            "tag" : "Grammar",
+            "topics" : [
+                { "name" : "Present simple", "url" : "grammar/presentSimple.md", "unit" : "1" , "state" : "ok"},
+                { "name" : "Adverbs of frequency", "url" : "grammar/adverbsOfFrequency.md", "unit" : "1", "state" : "ok"},
+                { "name" : "Present continuous", "url" : "grammar/presentContinuous.md", "unit" : "1", "state" : "ok" },
+                { "name" : "Verbs of rules", "url" : "grammar/verbsOfRules.md", "unit" : "2", "state" : "ok" }
+            ]
+        },
+        {
+            "tag" : "Vocabulary",
+            "topics" : [
+                { "name" : "Everyday routines", "url" : "vocabulary/everydayRoutines.md", "unit" : "1", "state" : "ok" },
+                { "name" : "Medical problems", "url" : "vocabulary/medicalProblems.md", "unit" : "1", "state" : "ok"},
+                { "name" : "Sports", "url" : "vocabulary/sports.md", "unit" : "2", "state" : "ok" },
+                { "name" : "Readings", "url" : "vocabulary/readings.md", "unit" : "2", "state" : "ok" }
+            ]
+        },
+        {
+            "tag" : "Worldbuilding",
+            "topics" : [
+                { "name" : "Do, play, and go", "url" : "worldbuilding/doPlayGo.md", "unit" : "1", "state" : "ok" },
+                { "name" : "Suffixes sports", "url" : "worldbuilding/suffixesSports.md", "unit" : "2", "state" : "ok" }
+            ]
+        },
+        {
+            "tag" : "Others",
+            "topics" : [
+                { "name" : "Homework", "url" : "others/homework.md"},
+                { "name" : "To Do", "url" : "others/bienvenida.md"}
+            ]
+        }
+    ]
+}
