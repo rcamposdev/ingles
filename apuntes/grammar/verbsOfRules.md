@@ -56,7 +56,9 @@ But remember that mustn't and don't have to have completely different meanings -
 
 ## 🏠 Homework
 
-### 📙 Vocabulary
+### ⚽ Rules of Football 
+
+#### 📙 Vocabulary
 
 | English      | Spanish | Example |
 | ------ | ----------- | ----------- |
@@ -73,10 +75,6 @@ But remember that mustn't and don't have to have completely different meanings -
 |  train |  entrenar | |
 | healthy | saludable | | 
 
-
-
-### ⚽ Rules of Football 
-
 1. Teams **must** have a minimum of seven (7) players inside the pitch *(obligación)*
 2. teams **must** have a goalkeeper *(obligación)*
 
@@ -92,3 +90,32 @@ But remember that mustn't and don't have to have completely different meanings -
 7. The goalkeeper **can't** use the same equipment as the players. *(prohibición)*
 8. Players **mustn't** catch the ball with hands inside the pitch. *(prohibición)*
 
+
+
+### Rules of Work
+
+#### 📙 Vocabulary
+
+| English      | Spanish | Example |
+| ------ | ----------- | ----------- |
+|  headphones |  auriculares | |
+|  tie |  corbata | |
+|  if they want it |  si lo desean | |
+|  in person |  de manera presencial | |
+|  leave |  dejar | |
+|  notify |  avisar | |
+|  tell |  decir | |
+|  boos |  jefe | |
+
+
+1. You **can** take a break outside the office. For example, I like walking in the park after lunch.
+
+2. You **mustn't** have a meeting without headphones.
+
+3. Employees **must** go a minimum of two days in person. The rest of days, they **have to** connect online. if they want it , They **can** go every day of the week.
+
+4. Employees **must** arrive before 10 am and leave after 5 pm.
+
+5. Men **don't have to** wear ties but they **can't** wear shorts.
+
+6. In my team, We **have to** connect a daily meeting every day. If not, you **have to** tell your boos.
