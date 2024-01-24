@@ -14,7 +14,7 @@
 | wake up late |  despertarse tarde | |
 | get up around eight |  levantarse alrededor de las ocho | |
 | stay up until midnight |  quedarse despierto hasta la medianoche | |
-| brush your teeth |  levantarse temprano | |
+| brush your teeth |  cepillarse los dientes | |
 | little quicker |  un poco más rápido  | |
 | get to work |  comenzar a trabajar | no se usa "start to work"|
 

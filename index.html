@@ -24,7 +24,7 @@
     </style>
 
 </head>
-<body x-data="app" @resize.window="isMobile = window.innerWidth <= 768;">
+<body x-data="app" @resize.window="resize()">
 
     <div class="columns m-0 p-0">
 
@@ -66,6 +66,8 @@
             <div class="content p-5">
 
                 <div class="content" x-html="marked(markdownText)" x-show="markdownText != ''" x-cloak x-transition></div>
+
+                <div x-init="$watch('markdownText', value => resizeTables())"></div>
 
             </div>
 
@@ -120,6 +122,76 @@
             window.scrollTo({ top: 0,behavior: "smooth" }); // Voy al top de c/u de los apuntes
 
             if(this.isMobile) this.showMenuMobile = false; // Si estoy en mobile : Una vez que seleccione un apunte, vuelvo a ocultar el menu
+
+        },
+        resizeTables(){ // When the size of the screens changes, the content of each table is adjusted accordingly.
+
+            document.querySelectorAll('table').forEach(table => {
+
+                const headers = Array.from(table.querySelectorAll('thead th')).map(x => x.textContent);
+
+                const createSpan = ({textContent, classList = ''}) => {
+                    
+                    const span = document.createElement("span");
+                    
+                    span.textContent = textContent;
+
+                    span.classList = classList;
+
+                    return span;
+
+                }
+                
+                table.querySelector('thead').style.display = !this.isMobile ? 'table-header-group' : 'none';
+
+                const rows = table.querySelectorAll('tbody tr');
+
+                rows.forEach(row => {
+
+                    row.classList = this.isMobile ? 'is-flex is-flex-direction-column mb-5' : '';
+
+                    const columns = row.querySelectorAll('td');
+
+                    columns.forEach(column => {
+
+                        if(column.dataset.label === undefined) column.dataset.label = headers[column.cellIndex];
+
+                        if(column.dataset.description === undefined) column.dataset.description = column.textContent;
+
+                        column.innerHTML = "";
+
+                        if(this.isMobile){
+
+                            column.classList = 'is-flex is-justify-content-space-between';
+
+                            column.appendChild(createSpan({textContent : column.dataset.label, classList : 'has-text-weight-semibold is-size-7 mr-3'}));
+
+                            column.appendChild(createSpan({textContent : column.dataset.description, classList : 'has-text-weight-normal is-size-7'}));
+
+                        }
+                        else{
+
+                            column.classList = '';
+
+                            column.appendChild(createSpan({textContent : column.dataset.description}));
+
+                        }
+
+                    })
+
+                })
+
+            })
+
+            
+
+        },
+        resize(){
+
+            this.isMobile = window.innerWidth <= 768;
+
+            this.resizeTables();
+
 
         }
 
