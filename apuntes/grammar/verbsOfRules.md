@@ -105,7 +105,7 @@ But remember that mustn't and don't have to have completely different meanings -
 |  leave |  dejar | |
 |  notify |  avisar | |
 |  tell |  decir | |
-|  boos |  jefe | |
+|  boss |  jefe | |
 
 
 1. You **can** take a break outside the office. For example, I like walking in the park after lunch.
@@ -118,4 +118,4 @@ But remember that mustn't and don't have to have completely different meanings -
 
 5. Men **don't have to** wear ties but they **can't** wear shorts.
 
-6. In my team, We **have to** connect a daily meeting every day. If not, you **have to** tell your boos.
+6. In my team, We **have to** connect to daily meetings. If you **can't**, you **have to** tell the boss.

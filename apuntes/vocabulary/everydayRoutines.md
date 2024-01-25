@@ -16,7 +16,9 @@
 | stay up until midnight |  quedarse despierto hasta la medianoche | |
 | brush your teeth |  cepillarse los dientes | |
 | little quicker |  un poco más rápido  | |
-| get to work |  comenzar a trabajar | no se usa "start to work"|
+| otherwise |  de lo contrario | seria como el 'else' en programacion |
+| go for a walk |  dar un paseo |  |
+
 
 ## 🏠 Homework
 
@@ -31,7 +33,7 @@ I **get up around nine** and I wash my face and **brush my teeth**.
 
 I have coffee and toast for breakfast while I **watch the news on TV**. If I **wake up late**,  I eat breakfast a **little quicker**  (for example yoghurt and cereals).
 
-After breakfast, I turn on the computer and I get to work.
+After breakfast, I turn on the computer and I start to work.
 
 At lunchtime, I **take a break** and I cook something quick and light. For example: omelette, wraps or sandwich.
 
@@ -39,7 +41,7 @@ After lunch, I work for another three hours.
 
 If I have no more work, I finish my working day at 17 hs. 
 
-Then,if i don't **feel tired**, I do some exercise. If the day is sunny, I go to walk or run in the park. Else, I go to the gym.
+Then,if i don't **feel tired**, I do some exercise. If it is sunny, I **go for a walk** in the park. Otherwise, I go to the gym.
 
 I come back from the gym and I have a snack with my girlfriend. She works in a office and she comes back around 7 pm.
 
