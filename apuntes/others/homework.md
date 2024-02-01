@@ -69,17 +69,25 @@ Most footballers retire from competitive games in their thirties, but walking fo
 
 ## Bolivian Wrestlers
 
+### 📌 Summary 
+
+- Wrestling is a famous sport in Bolivia. It's an exciting mixture of sport, drama and entertainment
+- In the past, the competitors were all men, but nowadays women are also competing
+- Yolanda is a famous wrestler. The sport is not rentable but she loves the love of her fans.
+- She has a normal family life with 2 daughters and her father. Her father was a wrestler in the past.
+
+
 ### Read the article
 
-**In Bolivia, football is the country's national sport but the country is also famous for another sport-wrestling. Local people like watching the wrestling and it's very popular with tourists. It's an exciting mixture of sport, drama and entertainment. When modern wrestling started in Bolivia in the 1950s, the competitors were all men, but nowadays women are also competing in the ring.**
+In Bolivia, football is the country's national sport but the country is also famous for another sport-wrestling. Local people like watching the wrestling and it's very popular with tourists. It's an exciting mixture of sport, drama and **entertainment**. When modern wrestling started in Bolivia in the 1950s, the competitors were all men, but nowadays women are also competing in the **ring**.
 
-The city of El Alto is a good place to watch the wrestling. Hundreds of spectators go to the fights in the evening. This evening, the crowd is sitting round a huge wrestling ring and they shout: 'Bring them on! Bring them on!' Suddenly, the commentator is speaking into a microphone: 'Ladies and Gentlemen. It's time for Yolanda and Claudina!' The crowd is screaming with excitement as two women in colourful clothes enter the ring. 
+The city of El Alto is a good place to watch the wrestling. Hundreds of spectators go to the fights in the evening. This evening, the **crowd** is sitting round a huge wrestling ring and they shout: 'Bring them on! Bring them on!' Suddenly, the **commentator** is speaking into a microphone: 'Ladies and Gentlemen. It's time for Yolanda and Claudina!' The crowd is screaming with excitement as two women in colourful clothes enter the ring. 
 
-Yolanda and Claudina are like famous pop stars. They smile and wave to their fans. The music stops and the referee starts the fight. Claudina jumps on Yolanda. Then Yolanda throws Claudina on the floor. As Claudina lies on the floor, Yolanda smiles and waves to the crowd. Then, Claudina gets up and pushes Yolanda onto the ground. One minute Yolanda is winning. The next minute, Claudina is winning. The spectators go crazy! 
+Yolanda and Claudina are like famous pop stars. They smile and wave to their fans. The music stops and the referee starts the fight. Claudina jumps on Yolanda. Then Yolanda throws Claudina on the floor. As Claudina lies on the floor, Yolanda smiles and waves to the crowd. Then, Claudina gets up and pushes Yolanda onto the ground. One minute Yolanda is winning. The next minute, Claudina is winning. The spectators **go crazy**! 
 
 Away from the ring, many wrestlers are women with families. At home Yolanda has a normal and quiet family life. She has two daughters and she makes clothes for a living. Her father was also a wrestler, so it's a family tradition. In answer to the question, 'Would your daughters like to become wrestlers one day?' Yolanda says they wouldn't. She answers: 'My daughters ask me why I do this. It's dangerous and they complain that wrestling doesn't bring any money into the house.' So why does she do it? 
 
-Yolanda loves wrestling because of her fans, and she has lots of them. One of her fans is called Esperanza Cancina. She pays $1.50 (a large part of her salary) to sit near the ring. Esperanza likes watching the wrestling because she says: "We laugh and we forget our problems for three or four hours."
+Yolanda loves wrestling because of her **fans**, and she has lots of them. One of her fans is called Esperanza Cancina. She pays $1.50 (a large part of her **salary**) to sit near the ring. Esperanza likes watching the wrestling because she says: "We laugh and we forget our problems for three or four hours."
 
 
 ### Exercise 2
@@ -87,10 +95,11 @@ Yolanda loves wrestling because of her fans, and she has lots of them. One of he
 Read the article about wrestling in Bolivia. Which paragraph (1-5) describes: 
 
 - the two wrestlers before the fight? **2**
-- the popularity of male and female wrestling in Bolivia? 
-- Yolanda's family life? 
-- the reason why a fan watches it? 
-- the fight between the two wrestlers? 
+- the popularity of male and female wrestling in Bolivia? **1**
+- Yolanda's family life? **4**
+- the reason why a fan watches it?  **5**
+- the fight between the two wrestlers? **3**
+
 
 ### Exercise 3
 
@@ -99,12 +108,13 @@ Find words in the article for these definitions.
 | Description      | First Letter | World |
 | ------ | ----------- | ----------- |
 |  something people watch for pleasure |  e | entertainment |
-|  the place where two wrestlers fight |  r | |
-|  a large group of people |  c | |
-|  the person who describes the action in a sport |  c | |
-|  get very excited, shout and jump up and down |  g & c (2) | |
-|  people who like a sports person or famous celebrity |  f | |
-|  the money you earn for work |  s | |
+|  the place where two wrestlers fight |  r | ring |
+|  a large group of people |  c | crowd |
+|  the person who describes the action in a sport |  c | commentator |
+|  get very excited, shout and jump up and down |  g & c | go crazy |
+|  people who like a sports person or famous celebrity |  f | fans |
+|  the money you earn for work |  s | salary |
+
 
 ## Paddleboard racing
 

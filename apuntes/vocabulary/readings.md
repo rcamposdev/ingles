@@ -16,3 +16,7 @@
 |  ground |  suelo | |
 |  keep |  mantener | |
 |  not surprisingly |  no es sorprendente | |
+|  crowd |  multitud | |
+|  nowadays |  en la actualidad | |
+|  laugh |  reirse | |
+|  daughters |  hijas | |
