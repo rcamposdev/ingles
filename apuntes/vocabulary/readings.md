@@ -11,3 +11,8 @@
 |  lie |  tumbarse | |
 |  arms |  brazos | |
 |  strong |  fuerte | |
+|  meet |  reunirse | |
+|  growing |  creciendo | |
+|  ground |  suelo | |
+|  keep |  mantener | |
+|  not surprisingly |  no es sorprendente | |

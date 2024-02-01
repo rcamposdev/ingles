@@ -9,25 +9,62 @@
 
 ## Walking football
 
-Read the article and answer the questions with words from the article. 
+### 📌 Summary 
 
-1. Do more people watch the World Cup or the Olympic Games on TV? 
-2. Which type of teams play football every weekend? 
-3. How old are the players in walking football? 
-4. Why is it good for older people? 
-5. Which two rules are different from normal football? 
-6. Why don't many people watch walking football? 
-7. How many teams play walking football in the United Kingdom?
+- It's similar to football but It's slower. The players have to walk with the ball.They can't run.
+
+- They have to keep one foot on the ground all the time. They can't jump.
+
+- Many people play walking football because it's a great way to keep fit and helps older people live longer.
+
+- Walking football is not popular because it's very slow and bored. Many people like playing walking fotball but few people watch this sport.
 
 ### Read the article
 
-Globally, more people play football than any other sport, and more people watch the World Cup on TV than the Olympic Games. Every weekend, thousands of teams meet in different countries to compete against each other. That includes famous teams such as Real Madrid and Manchester United, and local teams of people playing competitively and for fun. From an early age, school children play football in their physical education lessons and compete against teams from other schools. Now, there is new type of football which is growing in popularity. It's called 'walking football". 
+Globally, more people play football than any other sport, and more people watch the World Cup on TV than the Olympic Games. Every weekend, thousands of teams **meet** in different countries to compete against each other. That includes famous teams such as Real Madrid and Manchester United, and local teams of people playing competitively and for fun. From an early age, school children play football in their physical education lessons and compete against teams from other schools. Now, there is new type of football which is **growing** in popularity. It's called 'walking football". 
 
 
-Most footballers retire from competitive games in their thirties, but walking football is for the over fifties. It's a great way to keep fit and it can help older people live longer. Doctors also say it's good for the mind and relaxation. Most walking football matches are informal and social. Most of the rules are the same as for normal football, but everything is much slower. Players have to walk with the ball - they can't run. Also, players have to keep one foot on the ground all the time so they can't jump. 
+Most footballers retire from competitive games in their thirties, but walking football is for the over fifties. It's a great way to keep fit and it can help older people live longer. Doctors also say it's good for the mind and relaxation. Most walking football matches are informal and social. Most of the rules are the same as for normal football, but everything is much slower. Players have to walk with the ball - they can't run. Also, players have to **keep** one foot on the **ground** all the time so they can't jump. 
 
 
-Not surprisingly, walking football doesn't get many spectators because it is very slow. But more and more people like playing it; for example, in the United Kingdom there were around 100 teams two years ago. Now there are over 800, with regular competitions in different parts of the country every year.
+**Not surprisingly**, walking football doesn't get many spectators because it is very slow. But more and more people like playing it; for example, in the United Kingdom there were around 100 teams two years ago. Now there are over 800, with regular competitions in different parts of the country every year.
+
+
+### Read the article and answer the questions with words from the article. 
+
+1. Do more people watch the World Cup or the Olympic Games on TV? 
+
+**More people watch the World Cup on TV.**
+
+
+2. Which type of teams play football every weekend? 
+
+**Famous and local teams play football every weekend.**
+
+
+3. How old are the players in walking football? 
+
+**The players are more than fifty years old.**
+
+
+4. Why is it good for older people? 
+
+**Because it's a great way to keep fit. It's good for the mind and for relaxation.**
+
+
+5. Which two rules are different from normal football? 
+
+**The first difference is that the players have to walk with the ball, they can't run. The second difference is that the players have to keep one foot on the ground all the time, they can't jump.**
+
+
+6. Why don't many people watch walking football? 
+
+**Because it's very slow.**
+
+
+7. How many teams play walking football in the United Kingdom?
+
+**Now there are 800 (eight hundred) teams play walking football in the United Kingdom. Two years ago, there were around 100 (one hundred) teams**
 
 
 ## Bolivian Wrestlers
