@@ -1,5 +1,6 @@
 # 📝 Writing
 
+
 ## 📙 Vocabulary
 
 | English      | Spanish | Example |

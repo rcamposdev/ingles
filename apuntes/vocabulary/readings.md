@@ -20,3 +20,11 @@
 |  nowadays |  en la actualidad | |
 |  laugh |  reirse | |
 |  daughters |  hijas | |
+|  public debt | deuda pública |  |
+|  has borrowed | ha pedido |  |
+|  spent too much | gastado demasiado |  |
+|  warned | advertir |  |
+|  chainsaw | motosierra |  |
+|  worsen | empeorar |  |
+|  laws | leyes |  |
+|  worried | preocupado |  |
