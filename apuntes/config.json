@@ -16,6 +16,7 @@
                 { "name" : "Everyday routines", "url" : "vocabulary/everydayRoutines.md", "unit" : "1", "state" : "ok" },
                 { "name" : "Medical problems", "url" : "vocabulary/medicalProblems.md", "unit" : "1", "state" : "ok"},
                 { "name" : "Sports", "url" : "vocabulary/sports.md", "unit" : "2", "state" : "ok" },
+                { "name" : "Interests", "url" : "vocabulary/interests.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Readings", "url" : "vocabulary/readings.md", "unit" : "2", "state" : "ok" }
             ]
         },
@@ -23,7 +24,8 @@
             "tag" : "Worldbuilding",
             "topics" : [
                 { "name" : "Do, play, and go", "url" : "worldbuilding/doPlayGo.md", "unit" : "1", "state" : "ok" },
-                { "name" : "Suffixes sports", "url" : "worldbuilding/suffixesSports.md", "unit" : "2", "state" : "ok" }
+                { "name" : "Suffixes sports", "url" : "worldbuilding/suffixesSports.md", "unit" : "2", "state" : "ok" },
+                { "name" : "Like", "url" : "worldbuilding/like.md", "unit" : "2", "state" : "ok" }
             ]
         },
         {
