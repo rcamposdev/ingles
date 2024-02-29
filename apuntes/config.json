@@ -31,8 +31,7 @@
         {
             "tag" : "Others",
             "topics" : [
-                { "name" : "Homework", "url" : "others/homework.md"},
-                { "name" : "To Do", "url" : "others/bienvenida.md"},
+                { "name" : "To Do", "url" : "others/toDo.md"},
                 { "name" : "Writing", "url" : "others/writing.md"},
                 { "name" : "Readings", "url" : "others/readings.md"}
             ]
