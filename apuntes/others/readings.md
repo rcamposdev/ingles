@@ -62,7 +62,7 @@ Articles taken from the <a href="https://breakingnewsenglish.com/index.html" tar
 
 - Also, the text talks about the importance of **understanding what you read** and **gives study techniques**. For example, use dictionary or write a sentence using a new word
 
-## Personal Opinion
+### Personal Opinion
 
 - My technique is reading the article and mark the words I don't understand.
 
@@ -75,7 +75,7 @@ Articles taken from the <a href="https://breakingnewsenglish.com/index.html" tar
 - I don't read social media post or magazines but I read **forums to help me resolve a work problem**. For example, stackoverflow
 
 
-## Detail
+### Detail
 
 1. **Importance of Choosing the Right Reading Material**
 
@@ -91,6 +91,18 @@ Articles taken from the <a href="https://breakingnewsenglish.com/index.html" tar
 
     - The text highlights the importance of understanding what you read, stating that while learning new words and studying advanced English writing are essential, comprehension is the main goal.
     - Practical tips are given, such as using a dictionary, underlining unfamiliar words, and practicing new words by writing sentences and conjugating verbs. This is suggested as an effective method for understanding and using words.
+
+## Read the article "Who will buy Manchester United"
+
+### 📌 Summary 
+
+- The text is about the possible sale of Manchester United.
+		
+- Manchester United is one of the most popular clubs in England. But it hasn't won a title since 2005.
+		
+- A Qatari group wants to buy the team for more than 6 billion dollars. It will be one of the biggest ever in sport.
+		
+- Some fans are concerned about Qatar's human rights record.
 
 
 

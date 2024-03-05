@@ -28,3 +28,6 @@
 |  worsen | empeorar |  |
 |  laws | leyes |  |
 |  worried | preocupado |  |
+|  share | parte de una compañía |  |
+|  income | ingresos |  |
+|  reputation | opiniones sobre algo |  |
