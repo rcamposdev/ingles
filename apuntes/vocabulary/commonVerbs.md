@@ -4,7 +4,7 @@
 
 Make sentences with the verbs we have seen in class.
 
-- I **do Crossfit** twice a week to stay fi
+- I **do Crossfit** twice a week to stay fit
 - If I want to learn English, I have to **do my homework**  every week
 - My girlfriend likes to **do the shopping** but I don't like it 
 
@@ -17,10 +17,10 @@ Make sentences with the verbs we have seen in class.
 - I would like to **go on a trip** to Europe with my girlfriend next year
 
 
-- If you want to save money, you have to **make a shopping list** before you go to the market
+- If you want to save money, you have to **make a shopping list** before you going to the supermarket
 
 
-- When it's a rainy day, I like to **stay in** at home
+- When it's a rainy day, I like to **stay in**
 
 
 ### Uses of the verb "Do"
