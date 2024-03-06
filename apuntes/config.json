@@ -18,6 +18,7 @@
                 { "name" : "Sports", "url" : "vocabulary/sports.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Interests", "url" : "vocabulary/interests.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Common Verbs", "url" : "vocabulary/commonVerbs.md", "unit" : "2", "state" : "ok" },
+                { "name" : "Prepositions", "url" : "vocabulary/prepositions.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Readings", "url" : "vocabulary/readings.md", "unit" : "2", "state" : "ok" }
             ]
         },
