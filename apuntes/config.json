@@ -36,7 +36,8 @@
             "topics" : [
                 { "name" : "To Do", "url" : "others/toDo.md"},
                 { "name" : "Writing", "url" : "others/writing.md"},
-                { "name" : "Readings", "url" : "others/readings.md"}
+                { "name" : "Readings", "url" : "others/readings.md"},
+                { "name" : "Homework", "url" : "others/homework.md"}
             ]
         }
     ]
