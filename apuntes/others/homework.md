@@ -1,11 +1,11 @@
-## 🏠 Homework
+## 🏠 Homework 14-Mar
 
 ### Write the questions for the answers
 
-1. How many people live in your house?
+1. How many people are there in your family?
 2. How old are you?
 3. What did you do last weekend?
-4. Where dou you live?
+4. Do you live in a house or in an apartment?
 5. What kind of music do you like?
 6. How often do you go to the cinema?
 
@@ -60,16 +60,16 @@
     - Yes, I do. When I was a teenager.
 
 
-3. How often do you **publish post** on social network sites?
+3. How often do you **write post** on social network sites?
 
     - I sometimes post on social network sites. When I go on holiday or go out for a meal
 
 
-4. ??
+4. Do you ever **have a look** at language learning websites?
 
     - Yes, I do. Nowadays, I generally visit language learning websites because I learn english
 
 
-5. ??
+5. Do you ever **have dreams** about falling?
 
     - No, I don't. I never remember my dreams

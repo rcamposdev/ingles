@@ -4,4 +4,4 @@
 
 | Description |  Date | File | Observations | 
 | ----------- | ----------- | ----------- | ----------- | 
-| Al dia 😃 | 12-Mar |  |  |
+| Hacer la tarea y el apunte asociado al clima | 14-Mar |  |  |
