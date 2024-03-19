@@ -20,7 +20,9 @@
                 { "name" : "Interests", "url" : "vocabulary/interests.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Common Verbs", "url" : "vocabulary/commonVerbs.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Prepositions", "url" : "vocabulary/prepositions.md", "unit" : "2", "state" : "ok" },
+                { "name" : "Weather", "url" : "vocabulary/weather.md", "unit" : "2", "state" : "ok" },
                 { "name" : "Readings", "url" : "vocabulary/readings.md", "unit" : "2", "state" : "ok" }
+
             ]
         },
         {
@@ -37,6 +39,7 @@
                 { "name" : "To Do", "url" : "others/toDo.md"},
                 { "name" : "Writing", "url" : "others/writing.md"},
                 { "name" : "Readings", "url" : "others/readings.md"},
+                { "name" : "Basics", "url" : "others/basics.md"},
                 { "name" : "Homework", "url" : "others/homework.md"}
             ]
         }
